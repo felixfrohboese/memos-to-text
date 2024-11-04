@@ -1,7 +1,7 @@
 from openai import OpenAI
+import os
 import streamlit as st
 import tempfile
-import os
 
 st.title("Memos to Text")
 
